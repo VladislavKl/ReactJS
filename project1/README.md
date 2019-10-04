@@ -1,4 +1,4 @@
-A simple application with naviagtion and a popup message (kind of)
+## A simple application with navigation and the popup message (kind of)
 
 ## Available Scripts
 
