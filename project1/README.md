@@ -1,3 +1,5 @@
+A simple application with naviagtion and a popup message (kind of)
+
 ## Available Scripts
 
 In the project directory, you can run:
